@@ -1,0 +1,6 @@
+This game is only tested on GNU/Linux.
+
+You need to install Processing with its sound library and python 2 with numpy2 and pygame2
+
+In order to play the game you first need to start the processing script, then you can start the game with:
+$python2 main.py
